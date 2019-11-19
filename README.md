@@ -58,3 +58,6 @@ Use METAL to meta-analyze the output summary statistics for each cohort.
 
 The perl script for final QC checks before imputation was created by the McCarthy group and modified as appropriate:
 https://www.well.ox.ac.uk/~wrayner/tools/#Checking
+
+The R scripts to run SAIGE (step1_fitNULLGLMM.R and step2_SPAtests.R) were obtained as part of the SAIGE R package (https://github.com/weizhouUMICH/SAIGE)
+
